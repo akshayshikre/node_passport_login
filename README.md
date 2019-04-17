@@ -21,3 +21,5 @@ $ npm run dev
 ### MongoDB
 
 Open "config/keys.js" and add your MongoDB URI, local or Atlas
+
+Link: https://www.youtube.com/watch?v=6FOq4cUdH8k
